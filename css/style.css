@@ -7,7 +7,6 @@ div#wrapper {
 	background: -moz-linear-gradient(left top, red, yellow);
 	background: -webkit-linear-gradient(left top, red, yellow);
 	background: -o-linear-gradient(left top, red, yellow);
-	border: 1px solid #f00;
 }
 
 div#wrapper div {
